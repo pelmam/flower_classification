@@ -35,4 +35,4 @@ Two great courses:
 
 ## Feel free to change different parameters in the code, and explore the behaviour.
 This is my (partial) take on debugging:
-[!alt text](https://github.com/pelmam/flower_classification/blob/master/proj04pytorch/resources/ML%20training%20thoughts.png)
+![alt text](https://github.com/pelmam/flower_classification/blob/master/proj04pytorch/resources/ML%20training%20thoughts.png)
