@@ -33,3 +33,6 @@ Two great courses:
 * Facebook's Pytorch Challenge Course
 * [Coursera's Machine Learning Course](https://www.coursera.org/learn/machine-learning/home/welcome) by Prof. NG
 
+## Feel free to change different parameters in the code, and explore the behaviour.
+This is my (partial) take on debugging:
+[!alt text](https://github.com/pelmam/flower_classification/blob/master/proj04pytorch/resources/ML%20training%20thoughts.png)
