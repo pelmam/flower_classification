@@ -1,5 +1,5 @@
 # Flower Image Classification - Using PyTorch
-This project performs flower image classification. It was my submission for Facebook's PyTorch Challenge (warmly recommended!)
+This project performs flower image classification. It was my submission for the (warmly recommended!) Facebook's PyTorch Challenge.
 
 ### Prerequisites & Installation
 
