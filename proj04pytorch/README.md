@@ -1,5 +1,5 @@
 # Flower Image Classification - Using PyTorch
-This project performs flower image classification. It was my submission for Facebook's PyTorch Challenge (the course is warmly recommended!)
+This project performs flower image classification. It was my submission for Facebook's PyTorch Challenge (warmly recommended!)
 
 ### Prerequisites & Installation
 
@@ -29,5 +29,7 @@ cd /work/flower_classification/code
 python main_flower_classifier.py
 ```
 ## Acknowledgments
-* The amazing tutors at Facebook's Pytorch Challenge Course
+Two great courses:
+* Facebook's Pytorch Challenge Course
+* [Coursera's Machine Learning Course](https://www.coursera.org/learn/machine-learning/home/welcome) by Prof. NG
 
